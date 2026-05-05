@@ -66,4 +66,3 @@ public abstract class ShipmentOrder implements SummaryPrintable {
     protected abstract double calculateAdditionalFee();
 
     public abstract String getShipmentType();
-}
