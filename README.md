@@ -12,9 +12,12 @@ It demonstrates core object-oriented programming concepts:
 
 Design Pattern
 
-Template Method Pattern
+This project uses the Template Method design pattern.
 
-The main processing logic is defined in the abstract class ShipmentOrder using the method:
+The abstract class ShipmentOrder defines the main algorithm in the processOrder() method.
+Subclasses implement specific steps such as price calculation and additional fees.
+
+
 
 processOrder()
 
