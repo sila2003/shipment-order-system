@@ -44,4 +44,5 @@ public class PickupPointShipment extends ShipmentOrder {
             throw new IllegalArgumentException("Invalid locker size");
         }
     }
+    // update
 }
