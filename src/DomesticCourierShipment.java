@@ -38,4 +38,5 @@ public class DomesticCourierShipment extends ShipmentOrder {
 
         return price;
     }
+    // update
 }
